@@ -10,7 +10,7 @@ BingAI
 [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)  
 [NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web)  
 
-ChatGPT
+ChatGPT  
 ...
 
 ## Prompt Optimization
